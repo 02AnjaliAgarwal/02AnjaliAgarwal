@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **anjaliagarwal022000@gmail.com**
 
-- ⚡ Fun fact **Leap Year Girl.**
+- ⚡ Can Talk about - Web Development, AI, ML, Programming.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
