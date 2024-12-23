@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=02anjaliagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="02anjaliagarwal" /> </p>
 
-- 🌱 Currently exploring the power of .*DevOps*
+- 🌱 Currently exploring the power of *DevOps*
 
 - 📫 How to reach me **anjaliagarwal022000@gmail.com**
 
