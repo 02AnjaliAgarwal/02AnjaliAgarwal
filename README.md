@@ -9,7 +9,7 @@
 
 - 🌱 Currently exploring the power of *DevOps*
 
-- 📫 How to reach me **anjaliagarwal022000@gmail.com**
+- 📫 How to reach me **anjali.ag0229@gmail.com**
 
 - ⚡ Can Talk about - Web Development, Problem-solving, New Technologies.
 
